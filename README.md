@@ -10,3 +10,4 @@ contract AddressBook {
         user = _addr;
     }
 }
+Initialize smart contract examples
