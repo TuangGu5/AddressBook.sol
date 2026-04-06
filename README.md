@@ -11,3 +11,4 @@ contract AddressBook {
     }
 }
 Initialize smart contract examples
+Add getter function
