@@ -13,3 +13,4 @@ contract AddressBook {
 Initialize smart contract examples
 Add getter function
 Improve gas efficiency
+Update setter logic
