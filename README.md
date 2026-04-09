@@ -14,3 +14,4 @@ Initialize smart contract examples
 Add getter function
 Improve gas efficiency
 Update setter logic
+Clean code formatting
